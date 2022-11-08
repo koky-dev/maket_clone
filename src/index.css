@@ -11,3 +11,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-md{
+  background: linear-gradient(265.49deg, #020BE9 3.05%, #FF3464 109.11%);
+  color: #fff !important;
+  
+}
+
+
+.logo{
+  width: 118px;
+  height: 44px;
+}
+
+.nav-item{
+  margin-left: 22px;
+  font-weight: bold
+}
+
+.phone_section{
+  background-image: url('./assets/circle.png');
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  background-size: cover;
+}
+
+.phone_image{
+  width: 80%;
+  height: 70%;
+  margin-top: 75px;
+  margin-left: 50px;
+}
+
+.services{
+  background-image: url('./assets/background_service.png');
+}
+
+.service_img_right{
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.second_row{
+  margin-top: 20px !important;
+}
+
+.feature_img{
+  width: 350px !important;
+  height: 350px !important;
+}
+
+.timeline{
+  background: #FFF4F2;
+}
+
+.timeline-header > h5{
+  color: #653116;
+}
+
+.bag{
+  width: 100px !important;
+  height: 100px;
+}
